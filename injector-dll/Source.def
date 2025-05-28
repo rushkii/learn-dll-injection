@@ -1,0 +1,4 @@
+LIBRARY injector-dll
+
+EXPORTS
+	InjectedFunction
